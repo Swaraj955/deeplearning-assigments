@@ -1,4 +1,4 @@
-# Input values
+# Input values 1
 x = 2
 
 # Initial weight and bias
@@ -9,7 +9,7 @@ bias = 0.1
 target = 2.0
 
 # Learning rate
-learning_rate = 0.1
+learning_rate = 0.1 
 
 # Calculate prediction
 prediction = (x * weight) + bias
