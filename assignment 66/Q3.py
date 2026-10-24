@@ -16,7 +16,7 @@ mse = mse / len(actual)
 print("Mean Squared Error =", mse)
 
 
-# ---------------- Binary Cross Entropy ----------------
+# ------------- Binary Cross Entropy -------------
 
 bce = 0
 
