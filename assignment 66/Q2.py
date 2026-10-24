@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Input values from -10 to 10
+# Input values from -10 to 10 is given
 x = np.linspace(-10, 10, 100)
 
 # Sigmoid function
